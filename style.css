@@ -1,15 +1,14 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
     width: 100%;
-    height: 100px;
+    height: 150px;
     display: block;
-    float: left;
-    background-color: aquamarine;
+    background-color: blue;
 
 }
 
@@ -33,22 +32,53 @@ aside {
 
 footer {
     width: 100%;
-    height: 100px;
-    display: block;
-    float: left;
-    background-color: gold;
+    height: 200px;
+    display:flex;
+    float: right;
+    background-color: blue;
 }
 
-header ul li {
-    list-style-type: none;
-    text-decoration: none;
+
+.artigos {
+    color: white;
+    margin-left: 10%;
+    margin-top: 3%;
 }
 
-header a {
-    color: black;
-    font-size: 16px;
-    text-decoration: none;
-    float: left;
-    margin-top:5%;
-    margin: 5%;
+.artigos h1 {
+    font-size: 30px;
+}
+
+.ajuda {
+    color: white;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+.ajuda h1 {
+    font-size: 30px;
+}
+
+.jn {
+    color: white;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+.jn h1 {
+    font-size: 30px;
+}
+
+.contato {
+    color: white;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+.contato h1 {
+    font-size: 30px;
+}
+
+.linha hr{
+    
 }

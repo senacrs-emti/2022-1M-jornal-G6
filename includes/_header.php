@@ -9,9 +9,5 @@
 </head>
 <body>
     <header>
-        <ul>
-            <li><a href="./index.php">Index</a></li>
-            <li><a href="./noticia.php">Noticia</a></li>
-            <li><a href="./editoria.php">Editoria</a></li>
-        </ul>
+       
     </header>
