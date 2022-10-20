@@ -137,6 +137,15 @@ main {
     background-color: red;
 
 }
+.noticias section{
+display: inline-block;
+margin-left: 70px;
+}
+
+.noticias section p{
+    width: 200px;
+    text-align: justify;
+}
 
 .list-group{
     z-index: 499;
@@ -148,12 +157,24 @@ aside {
     margin-left: 22px;
     display: block;
     float: left;
-    background-color: violet;
+  
 
 }
 aside img{
     margin-right: 15px;
     margin-top: 10px;
+}
+
+@media only screen and (max-width: 1196px){
+    .jogador{
+        display: inline-block;
+    }
+    main{
+        width: 100%;
+    }
+    aside{
+        width: 100%;
+    }
 }
 
 footer {

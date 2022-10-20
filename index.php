@@ -16,19 +16,41 @@ include_once './includes/_header.php';
             <video style="width:50% ; position:relative; left:35%; top: -400px;" controls="">
           <source src="video/Neymar (video-converter.com).mp4" type="video/mp4">
         </video>
+
+        <div class="noticias">
+            <section>
+
+                <img src="..." width="250px" alt="">
+                <h3>Notícia 1</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta natus dolor, harum sequi tempore praesentium. Neque eaque tempore voluptatum a officia doloremque repellat error similique enim magni! Aliquid, facere tempora.</p>
+
+            </section>
+            <section>
+
+                <img src="..." width="250px" alt="">
+                <h3>Notícia 2</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta natus dolor, harum sequi tempore praesentium. Neque eaque tempore voluptatum a officia doloremque repellat error similique enim magni! Aliquid, facere tempora.</p>
+
+            </section>
+            <section>
+
+                <img src="..." width="250px" alt="">
+                <h3>Notícia 3</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi fugiat blanditiis sequi officia atque exercitationem sapiente quis deserunt. Quibusdam maiores labore beatae ut voluptatum nihil inventore ab quod, doloribus illum.</p>
+        </section></div>
 </main>
 <aside>
 <aside>
             <div class="jogador">
-                <img src="img/mbappe-home.jpg" width="300px" alt="">
+                <img src="img/mbappe-home.jpg" width="300px" height="168px" alt="">
                 <h1>Kylian Mbappé</h1>
     
                 <span> Time: PSG</span>
                 <span>idade: 23 anos</span>
-    
+
             </div>
             <div class="jogador">
-                <img src="img/Halland-home.jpg" width="300px" alt="">
+                <img src="img/Halland-home.jpg" width="300px" height="168px" alt="">
                 <h1>Erling Halland</h1>
     
                 <span> Time: Manchester City</span>
@@ -36,7 +58,7 @@ include_once './includes/_header.php';
     
             </div>
             <div class="jogador">
-                <img src="img/darwin Núñes-home.jpg" width="300px" alt="">
+                <img src="img/darwin Núñes-home.jpg" width="300px" height="168px" alt="">
                 <h1>Darwin Núñes</h1>
                 <span> Time: Liverpool</span>
                 <span>idade: 23 anos</span>
