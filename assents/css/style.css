@@ -7,119 +7,67 @@
 body {
     height: auto;
     overflow-y: hidden;
-background-color: #9BEAFA;
-}
-
-header nav {
-    width: 100%;
-    height: 50px;
-    border: 1px solid black;
-    background-image: linear-gradient(45deg,#0CE7F8,#0B93D9,#0161F0,#0B27D9, #2B0CF8);
-    background-size: 300% 300%;
-    animation: colors 15s ease infinite;
-    overflow-y: hidden;
-}
-
-@keyframes colors{
-    0%{
-        background-position: 0% 50%;
-    }
-    50%{
-        background-position: 100% 50%;
-    }
-    100%{
-        background-position: 0% 50%;
-    }
-}
-header nav ul {
-    margin-left: 200px;
-}
-
-header nav ul li {
-    float: left;
-    margin-left: 100px;
-    margin-top: 10px;
-    list-style-type: none;
-}
-
-header nav ul li a {
-    color: white;
-    text-decoration: none;
-}
-
-header nav ul li a:hover {
-    color: bisque;
-    text-decoration: underline;
-}
-article{
-    width: 75%;
-    margin-top: -15%;
-}
-.article{
-    display: inline-block;
-}
-
-
-article ul {
-    width: 30%;
-}
-
-article video {
-    height: 670px;
-    width: 500px;
-    margin-left: 80px;
-}
-
-.list-group{
-    width: 300px;
-}
-
-article .noticias section{
-    display: inline-block;
-margin-left: 92px;
-}
-
-article .noticias section img{
-    width: 200px;
-}
-    article .noticias section p{
-        width: 200px;
-    }
-
-    .list-group-item.active {
-        background-color: #71C3FA;
-    }
-
-
-
-
-
-
-article section,
-aside h1,
-h3 {
-    overflow-y: hidden;
-}
-
-aside {
-    margin-top: -70.7%;
-    margin-right: 10px;
-    float: right;
-    width: 300px;
-    border: 1px solid black;
-    background-color: white;
-}
-
-aside .jogador {
-    height: auto;
-    overflow-y: hidden;
-    margin-top: 10px;
-
+    background-color: #333;
 }
 
 
 footer {
-    background-color: blue;
     width: 100%;
-    height: 100px;
+    height: 250px;
+    display:flex;
+    overflow-y: hidden;
+    background-color: #2b4c9d;
+}
+
+
+.artigos {
+    color: white;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.artigos h1 {
+    font-size: 30px;
+}
+
+.ajuda {
+    color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.ajuda h1 {
+    font-size: 30px;
+}
+
+.jn {
+    color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.jn h1 {
+    font-size: 30px;
+}
+
+.contato {
+    color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.contato h1 {
+    font-size: 30px;
+}
+
+.icones {
+    margin-top: 4%;
+    margin-left: 15%;
+}
+
+.icones img{
+    width: 35%;
+    margin-top: 3%;
+    height: 40px;
+    margin-left: 25%;
 }
