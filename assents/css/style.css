@@ -67,21 +67,26 @@ header .search-bar .lupa button{
 	cursor: pointer;
 	padding: 15px;
 	position: absolute;
-	z-index: 1;
+	z-index: 601;
 }
 
 #check{
 	display: none;
 	background-color: #f00;
+    z-index: 600;
+    
 }
+
 
 .barra{
 	background-color: #333;
-	height: 365px;
+	height:400px;
 	width: 300px;
 	position: absolute;
 	left: -300px;
 	transition: all .2s linear;
+    z-index: 500;
+   
 }
 
 .barra .link{
@@ -126,20 +131,29 @@ nav a{
 
 main {
     width: 70%;
-    height: 500px;
+    height: auto;
     display: block;
     float: left;
     background-color: red;
 
 }
 
+.list-group{
+    z-index: 499;
+}
+
 aside {
-    width: 30%;
-    height: 500px;
+    width: auto;
+    height: auto;
+    margin-left: 22px;
     display: block;
     float: left;
     background-color: violet;
 
+}
+aside img{
+    margin-right: 15px;
+    margin-top: 10px;
 }
 
 footer {

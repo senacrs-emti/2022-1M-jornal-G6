@@ -13,8 +13,37 @@ include_once './includes/_header.php';
                 <li class="list-group-item"><img src="img/icon-article-ul-premierleague-home.png" alt="">Premier League</li>
                 <li class="list-group-item"><img src="img/icon-article-ul-libertadores-home.png" alt="">Libertadores</li>
             </ul>
+            <video style="width:50% ; position:relative; left:35%; top: -400px;" controls="">
+          <source src="video/Neymar (video-converter.com).mp4" type="video/mp4">
+        </video>
 </main>
-
+<aside>
+<aside>
+            <div class="jogador">
+                <img src="img/mbappe-home.jpg" width="300px" alt="">
+                <h1>Kylian Mbappé</h1>
+    
+                <span> Time: PSG</span>
+                <span>idade: 23 anos</span>
+    
+            </div>
+            <div class="jogador">
+                <img src="img/Halland-home.jpg" width="300px" alt="">
+                <h1>Erling Halland</h1>
+    
+                <span> Time: Manchester City</span>
+                <span>idade: 22 anos</span>
+    
+            </div>
+            <div class="jogador">
+                <img src="img/darwin Núñes-home.jpg" width="300px" alt="">
+                <h1>Darwin Núñes</h1>
+                <span> Time: Liverpool</span>
+                <span>idade: 23 anos</span>
+    
+            </div>
+        </aside>
+</aside>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
@@ -26,7 +55,7 @@ include_once './includes/_header.php';
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
     
 <?php
-include_once './includes/_aside.php';
+
 
 
 include_once './includes/_footer.php';
