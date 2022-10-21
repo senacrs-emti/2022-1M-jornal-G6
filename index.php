@@ -13,7 +13,7 @@ include_once './includes/_header.php';
                 <li class="list-group-item"><img src="img/icon-article-ul-premierleague-home.png" alt="">Premier League</li>
                 <li class="list-group-item"><img src="img/icon-article-ul-libertadores-home.png" alt="">Libertadores</li>
             </ul>
-            <video style="width:50% ; position:relative; left:35%; top: -400px;" controls="">
+            <video style="width:60% ; position:relative; left:33%; top: -400px;" controls="">
           <source src="video/Neymar (video-converter.com).mp4" type="video/mp4">
         </video>
 

@@ -134,7 +134,7 @@ main {
     height: auto;
     display: block;
     float: left;
-    background-color: red;
+    background-color:#E4E5FD;
 
 }
 .noticias section{
@@ -152,13 +152,18 @@ margin-left: 70px;
 }
 
 aside {
-    width: auto;
-    height: auto;
-    margin-left: 22px;
+    width: 378px;
+    height: 1084.5px;
+    
     display: block;
     float: left;
-  
+  background-color:#0DBAFF ;
 
+}
+.jogador{
+    margin-top: 80px;
+    margin-left: 40px;
+    color: white;
 }
 aside img{
     margin-right: 15px;
