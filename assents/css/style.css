@@ -135,7 +135,11 @@ main {
     height: auto;
     display: block;
     float: left;
+<<<<<<< HEAD
     background-color: #C1E9FF;
+=======
+    background-color:#E4E5FD;
+>>>>>>> cfd74909727267479093fc1aeccf3faba6e7d160
 
 }
 .noticias section{
@@ -153,13 +157,22 @@ margin-left: 70px;
 }
 
 aside {
-    width: auto;
-    height: auto;
-    margin-left: 22px;
+    width: 378px;
+    height: 1084.5px;
+    
     display: block;
     float: left;
+<<<<<<< HEAD
     background-color: #0075FF;
+=======
+  background-color:#0DBAFF ;
+>>>>>>> cfd74909727267479093fc1aeccf3faba6e7d160
 
+}
+.jogador{
+    margin-top: 80px;
+    margin-left: 40px;
+    color: white;
 }
 aside img{
     margin-right: 15px;
@@ -180,12 +193,13 @@ aside img{
 
 footer {
     width: 100%;
-    height: 100px;
-    display: block;
+    height: 250px;
     float: left;
-    background-color: gold;
+    display:flex;
+    background-color: #2b4c9d;
 }
 
+<<<<<<< HEAD
 /*CSGO*/
 .csgo{
     width: 30%;
@@ -299,3 +313,56 @@ footer {
     display: inline-block;
 }
 
+=======
+
+.artigos {
+    color: white;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.artigos h1 {
+    font-size: 30px;
+}
+
+.ajuda {
+    color: white;   
+    margin-left: 25%;
+    margin-top: -12.2%;
+}
+
+.ajuda h1 {
+    font-size: 30px;
+}
+
+.jn {
+    color: white;
+    margin-left: 40%;
+    margin-top: -6.5%;
+}
+
+.jn h1 {
+    font-size: 30px;
+}
+
+.contato {
+    color: white;
+    margin-left: 58%;
+    margin-top: -12%;
+}
+
+.contato h1 {
+    font-size: 30px;
+}
+
+.icones{
+    margin-top: -13%;
+}
+
+.icones img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 90%;
+}
+>>>>>>> cfd74909727267479093fc1aeccf3faba6e7d160
