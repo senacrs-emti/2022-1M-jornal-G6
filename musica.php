@@ -4,36 +4,48 @@ include_once './includes/_header.php';
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 <main class="main-musica">
+    <section>
 <div class="img1">
     img
 </div>
+
+
 <p class="txt1">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus consequatur sed itaque numquam doloribus rem at repudiandae? Illum debitis numquam assumenda nam, ducimus fugiat harum aliquid, nemo, aliquam porro nisi.
 </p>
+</section>
+<section>
 <p class="txt2">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus consequatur sed itaque numquam doloribus rem at repudiandae? Illum debitis numquam assumenda nam, ducimus fugiat harum aliquid, nemo, aliquam porro nisi.
 </p>
 <div class="img2">
     img
 </div>
-<div class="img3">
+</section>
+<section>
+<div class="img1">
     img
 </div>
-<p class="txt3">
+<p class="txt1">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus consequatur sed itaque numquam doloribus rem at repudiandae? Illum debitis numquam assumenda nam, ducimus fugiat harum aliquid, nemo, aliquam porro nisi.
 </p>
-<p class="txt4">
+</section>
+<section>
+<p class="txt2">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus consequatur sed itaque numquam doloribus rem at repudiandae? Illum debitis numquam assumenda nam, ducimus fugiat harum aliquid, nemo, aliquam porro nisi.
 </p>
-<div class="img4">
+<div class="img2">
     img
 </div>
-<div class="img5">
+</section>
+<section>
+<div class="img1">
     img
 </div>
-<p class="txt5">
+<p class="txt1">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus consequatur sed itaque numquam doloribus rem at repudiandae? Illum debitis numquam assumenda nam, ducimus fugiat harum aliquid, nemo, aliquam porro nisi.
 </p>
+</section>
 
 
 
