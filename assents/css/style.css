@@ -366,11 +366,22 @@ footer {
     margin-left: 90%;
 }
 
+/*Ao vivo*/
 
+.ao-vivo{
+    width: 100%;
+}
+
+.ao-vivo iframe{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 4%;
+}
+/*Ao vivo fim*/
 
 /*Musica*/
 
-main div{
+.main-musica div{
     border: 1px solid black;
     width: 155px;
     height: 155px;
@@ -378,3 +389,4 @@ main div{
 .aside-musica{
     float: right;
 }
+/*Música fim*/

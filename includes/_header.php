@@ -16,21 +16,18 @@
 <label for="check" id="icone"><img src="https://i.imgur.com/RWHvwPE.png"/></label>
 <div class="barra">	
 	<nav>
-		<a href=""><div class="link">Home</div></a>
-		<a href=""><div class="link">Futebol</div></a>
-		<a href=""><div class="link">Musicas</div></a>
-		<a href="csgo.php"><div class="link">Jogos</div></a>
-		<a href=""><div class="link">Contato</div></a>
+		<a href="index.php"><div class="link">Home</div></a>
+		<a href="futebol.php"><div class="link">Futebol</div></a>
+		<a href="musica.php"><div class="link">Musicas</div></a>
+		<a href="jogos.php"><div class="link">Jogos</div></a>
+		<a href="ao-vivo.php"><div class="link">Ao-vivo</div></a>
+        <a href="csgo.php"><div class="link">CSGO</div></a>
 	</nav>	
 </div>
 
 </div>
 
-<nav>
-    <ul>
-        <li><a href="index.php">Home</a></li>
-    </ul>
-</nav>
+
 <div class="search-bar">
 <input type="text" placeholder="    Pesquisar">
 <div class="lupa"><button>🔎</button></div>
