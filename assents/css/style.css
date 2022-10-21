@@ -184,9 +184,60 @@ aside img{
 
 footer {
     width: 100%;
-    height: 100px;
-    display: block;
+    height: 250px;
     float: left;
-    background-color: gold;
+    display:flex;
+    background-color: #2b4c9d;
 }
 
+
+.artigos {
+    color: white;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.artigos h1 {
+    font-size: 30px;
+}
+
+.ajuda {
+    color: white;   
+    margin-left: 25%;
+    margin-top: -12.2%;
+}
+
+.ajuda h1 {
+    font-size: 30px;
+}
+
+.jn {
+    color: white;
+    margin-left: 40%;
+    margin-top: -6.5%;
+}
+
+.jn h1 {
+    font-size: 30px;
+}
+
+.contato {
+    color: white;
+    margin-left: 58%;
+    margin-top: -12%;
+}
+
+.contato h1 {
+    font-size: 30px;
+}
+
+.icones{
+    margin-top: -13%;
+}
+
+.icones img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 90%;
+}
