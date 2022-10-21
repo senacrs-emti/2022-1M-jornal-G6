@@ -19,7 +19,7 @@
 		<a href=""><div class="link">Home</div></a>
 		<a href=""><div class="link">Futebol</div></a>
 		<a href=""><div class="link">Musicas</div></a>
-		<a href=""><div class="link">Jogos</div></a>
+		<a href="csgo.php"><div class="link">Jogos</div></a>
 		<a href=""><div class="link">Contato</div></a>
 	</nav>	
 </div>
