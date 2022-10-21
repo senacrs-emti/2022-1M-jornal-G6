@@ -135,11 +135,11 @@ main {
     height: auto;
     display: block;
     float: left;
-<<<<<<< HEAD
+
     background-color: #C1E9FF;
-=======
+
     background-color:#E4E5FD;
->>>>>>> cfd74909727267479093fc1aeccf3faba6e7d160
+
 
 }
 .noticias section{
@@ -162,11 +162,11 @@ aside {
     
     display: block;
     float: left;
-<<<<<<< HEAD
+
     background-color: #0075FF;
-=======
+
   background-color:#0DBAFF ;
->>>>>>> cfd74909727267479093fc1aeccf3faba6e7d160
+
 
 }
 .jogador{
@@ -199,7 +199,7 @@ footer {
     background-color: #2b4c9d;
 }
 
-<<<<<<< HEAD
+
 /*CSGO*/
 .csgo{
     width: 30%;
@@ -313,7 +313,7 @@ footer {
     display: inline-block;
 }
 
-=======
+
 
 .artigos {
     color: white;
@@ -365,4 +365,16 @@ footer {
     margin-top: 10px;
     margin-left: 90%;
 }
->>>>>>> cfd74909727267479093fc1aeccf3faba6e7d160
+
+
+
+/*Musica*/
+
+main div{
+    border: 1px solid black;
+    width: 155px;
+    height: 155px;
+}
+.aside-musica{
+    float: right;
+}
