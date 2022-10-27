@@ -22,7 +22,7 @@ include_once './includes/_header.php';
     <div class="novidades">
         <h1>NOVIDADES</h1>
     </div>
-    <img class="csgologo" src="https://steamuserimages-a.akamaihd.net/ugc/952964242161767666/A0686A3BAC68404FF93C9BEDD52E52436B8E3199/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+    <img class="csgologo" src="https://1000logos.net/wp-content/uploads/2017/12/CSGO-Symbol.jpg">
     <div class="texto">
         <h2>NOVA LOGO</h2>
         <p>Valve, criadora do jogo CSGO, anuncia nova logo para sua criação de anos</p>
