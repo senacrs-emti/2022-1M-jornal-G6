@@ -12,7 +12,6 @@ header {
     height: auto;
     float: left;
     background-color: aquamarine;
-    background-image: url('https://i.pinimg.com/originals/4b/ee/80/4bee8020c1be299d509a75d9d96083b6.jpg');
     background-size: 100%;
     background-position-y: -350px;
     background-repeat: no-repeat;
@@ -154,12 +153,8 @@ main {
     height: auto;
     display: block;
     float: left;
-
     background-color: #C1E9FF;
-
     background-color:#E4E5FD;
-
-
 }
 .noticias section{
 display: inline-block;
@@ -178,13 +173,10 @@ margin-left: 70px;
 aside {
     width: 378px;
     height: 1084.5px;
-    
     display: block;
     float: left;
-
     background-color: #0075FF;
-
-  background-color:#0DBAFF ;
+    background-color:#0DBAFF ;
 
 
 }
