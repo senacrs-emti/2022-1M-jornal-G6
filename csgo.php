@@ -1,3 +1,4 @@
+
 <?php
 include_once './includes/_header.php';
 ?>
@@ -9,12 +10,19 @@ include_once './includes/_header.php';
 </div>
 <div class="conteudo-csgo">
 <section class="section-csgo">
-        <img class="img-csgo" src="https://www.pichauarena.com.br/wp-content/uploads/2022/07/Imagem-Reproducao-HLTV-Fallen-2-scaled-e1659322285392.jpg">
+        <img class="fallen" src="https://www.pichauarena.com.br/wp-content/uploads/2022/07/Imagem-Reproducao-HLTV-Fallen-2-scaled-e1659322285392.jpg">
     </section>
 <section  class="section-csgo">
-    <img class="img-csgo" src="https://s2.glbimg.com/EeOA17vmflgeWI6rA97d-z5Tokc=/0x0:4096x2731/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/a/e/Nt6zSxQXa5NWdYy61IiA/m0nesy-g2.jpg">
+    <img class="monesy" src="https://s2.glbimg.com/EeOA17vmflgeWI6rA97d-z5Tokc=/0x0:4096x2731/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/a/e/Nt6zSxQXa5NWdYy61IiA/m0nesy-g2.jpg">
+</section>
+<section  class="section-csgo1">
+    <img class="majorrio2" src="https://cdn.escharts.com/uploads/public/636/229/c69/636229c6963fa687041078.jpg">
+</section>
+<section  class="section-csgo1">
+    <img class="majorrio" src="https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/09/Artwork-Jeunesse-Center-Stage.jpg?auto=format%2Ccompress&w=1024&h=1024">
 </section>
 </div>
+
 
 </main>
 
@@ -53,6 +61,12 @@ include_once './includes/_header.php';
         </ul>
     </div>
 </aside>
+</div>
+
+<div class="csfooter">
+    <img src="https://www.talkesport.com/wp-content/uploads/csbet-skins-2-min.jpg" class="csskins">
+    <img src="https://image.winudf.com/v2/image1/Y29tLmNzZ29zdGlja2VyYXBwX3NjcmVlbl8wXzE1NDUwMDQyMTJfMDQ5/screen-0.jpg?fakeurl=1&type=.webp" class="csstickers">
+    <img src="https://www.gamersdecide.com/sites/default/files/styles/news_images/public/mi2_1.jpg" class="csteams">
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
