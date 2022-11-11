@@ -16,28 +16,39 @@ include_once './includes/_header.php';
             <video style="width:60% ; position:relative; left:33%; top: -400px;" controls="">
           <source src="video/Neymar (video-converter.com).mp4" type="video/mp4">
         </video>
-
         <div class="noticias">
-            <section>
 
-                <img src="..." width="250px" alt="">
-                <h3>Notícia 1</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta natus dolor, harum sequi tempore praesentium. Neque eaque tempore voluptatum a officia doloremque repellat error similique enim magni! Aliquid, facere tempora.</p>
+<section>
 
-            </section>
-            <section>
+    <img src="https://tm.ibxk.com.br/2020/08/07/07165050040263.jpg" width="220px" alt="">
 
-                <img src="..." width="250px" alt="">
-                <h3>Notícia 2</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta natus dolor, harum sequi tempore praesentium. Neque eaque tempore voluptatum a officia doloremque repellat error similique enim magni! Aliquid, facere tempora.</p>
+    <h3>Fã recria GTA V na vida real</h3>
 
-            </section>
-            <section>
+    <p>O youtuber japonês Komazawa Isolation reproduziu parte das mecanicas do jogo, isso foi gravado nas ruas de Shibuya, e o video ficou tão identico ao jogo que parece que voce está controlando o personagem, além das mecanicas ele também reproduziu as ferramentas, mini-mapa, barra de vida, bugs e até as cenas de morte.</p>
 
-                <img src="..." width="250px" alt="">
-                <h3>Notícia 3</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi fugiat blanditiis sequi officia atque exercitationem sapiente quis deserunt. Quibusdam maiores labore beatae ut voluptatum nihil inventore ab quod, doloribus illum.</p>
-        </section></div>
+</section>
+
+<section>
+
+    <img src="https://s2.glbimg.com/BavLpvdpNK9OOFdRsiHzPEX3-Kc=/0x0:2000x1125/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/f/T/58dNbaSOqjgRWf4cFyiA/fcidifkxwamyahl.jpg" width="220px" height="147px" alt="">
+
+    <h3>CSGO tem major no Brasil</h3>
+
+    <p>O CSGO é um jogo que ja teve diversos campeonatos onde o mais conehcido é o Major, onde os melhores times disputam entre si para ver qual é o melhor, Todo ano tem Major e o atual está acontecendo no Rio de Janeiro, até terça feira as partidas estavam acontecendo na arena Tribonera, que foi fornecida pelo streamer Gaules onde varios momentos emocionantes e marcantes foram marcados.</p>
+
+</section>
+
+<section>
+
+    <img src="https://lastfm.freetls.fastly.net/i/u/ar0/7b077e2f0a09e8e793f690da2336d40d" width="220px" alt="">
+
+    <h3>No Buses lança álbum “Sweet Home”</h3>
+
+    <p>A banda de rock indie "No Buses" anunciou o seu terceiro album a data divulgada para seu lançamento doi para o dia 14 de setembro, o projeto terá 9 faixas e uma delas é "Daydream Beliver", a banda cintará com a participação do rapper BIM. </p>
+
+</section>
+
+</div>
 </main>
 <aside>
 <aside>

@@ -147,23 +147,52 @@ nav a{
 }
 /*header*/
 
-
 main {
+
     width: 70%;
+
     height: auto;
+
     display: block;
+
     float: left;
+
     background-color: #C1E9FF;
+
     background-color:#E4E5FD;
+
 }
+
+
+
 .noticias section{
-display: inline-block;
-margin-left: 70px;
+
+    display:inline-grid;
+
+    margin-left: 50px;
+
 }
+
+
+
+.noticias section h3{
+
+    font-size: 15px;
+
+    color: #f00;
+
+}
+
+
 
 .noticias section p{
-    width: 200px;
+
+    width: 220px;
+
+    font-size: 15px;
+
     text-align: justify;
+
 }
 
 .list-group{
@@ -391,29 +420,39 @@ footer {
 /*Musica*/
 
 .main-musica div{
-    border: 1px solid black;
     width: 155px;
     height: 155px;
     margin-left: 50px;
     
 }
 
-.main-musica section{
-    margin-top: 62px;
+
+
+span{
+    font-size: 20px;
+    color: darkblue;
 }
 
-.main-musica .txt1{
+.main-musica .txt-right{
     width: 600px;
-    margin-top: -100px;
     float: right;
+    margin-top: -200px;
 }
 
-.main-musica .img2{
-    float: right;
+.main-musica .img-left{
+    margin-left: -10px;
+  width: 250px;
+  height: 202px;
 }
-.main-musica .txt2{
-    margin-top: 50px;
-    width: 600px;
+
+.main-musica .img-right{
+    width: auto;
+    float: right;
+    height: 300px;
+}
+.main-musica .txt-left{
+    
+    width: 500px;
     float: left;
 }
 .aside-musica{
