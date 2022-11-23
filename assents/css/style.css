@@ -201,7 +201,7 @@ main {
 
 aside {
     width: 378px;
-    height: 1084.5px;
+    height: 1262px;
     display: block;
     float: left;
     background-color: #0075FF;
@@ -345,35 +345,42 @@ footer {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.section-csgo{
+.section-csgo1{
+    border: 2px solid black;
     display: inline-block;
-    width: 400px;
+    width: 47%;
+    margin-top: 5px;
 }
 
+.section-csgo2{
+    border: 2px solid black;
+    display: inline-block;
+    width: 47%;
+}
+
+.section-csgo3{
+    border: 2px solid black;
+    width: 94.4%;
+}
+
+
 .fallen{
-    margin-left: 20px;
-    margin-top: 20px;
+    height: 277px;
     width: 100%;
 }
 
 .monesy{
-    margin-left: 20px;
-    margin-top: 20px;
+    height: 277px;
     width: 100%;
 }
 
 .majorrio{
-    margin-top: 10px;
-    margin-left: 20px;
-    width: 88.7%;
-    height: 450px;
+    width: 100%;
 }
 
-.majorrio2{
-    margin-left: 20px;
-    margin-top: 5px;
-    width: 88.7%;
-    height: 301px;
+p{
+    position: relative;
+    text-align: justify;
 }
 
 .artigos {
@@ -512,6 +519,106 @@ span{
     float: left;
 }
 .aside-musica{
+    height:1145px;
     float: right;
 }
+.aside-musica h2,h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+.aside-musica img{
+    margin-left: 15px;
+}
 /*Música fim*/
+/*Esporte começo*/
+
+.asidefut{
+    float: right;
+    height: 1200px;
+    width: 27%;
+}
+.mainfut{
+    background-color: #96B4FF;
+    width: 73%;
+}
+.futh1{
+    background-color: rgb(192, 23, 23);
+    color: whitesmoke;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+}
+
+.futh2{
+    color: white;
+    width: 300px;
+    margin-left:90px;
+    text-align: center;
+}
+
+.futh3{
+    color: white;
+    font-size: 25px;
+}
+.futp{
+    width: 450px;
+    color: white;
+    text-align: justify;
+}
+.noticia1{
+    margin-left: 55%;
+    margin-top: -65%;
+    width:auto;
+    height: 450px;
+    display:inline-block;
+}
+
+.cronicafut2 p {
+    width: 300px;
+}
+.cronicafut2 h3{
+    font-size: 20px;
+    font-style: bold;
+}
+
+
+.noticia2{
+    margin-left: 1%;
+    width: 43%;
+    height: 200px;
+    margin-bottom: 27%;
+}
+
+.noticia3{
+    margin-top: -25%;
+    margin-left: 10%;
+    width: 43%;
+    height: 230px;
+
+}
+.asidenoticia{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 300px;
+}
+.h2fut{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pfut{
+    color: whitesmoke;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+}
+
+/*fut fim */

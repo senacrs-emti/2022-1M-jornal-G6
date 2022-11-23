@@ -74,7 +74,13 @@ Formada em 2016 no Rio de Janeiro, a 1Kilo conta hoje com mais de 2 bilhões de 
 </main>
 
 <aside class="aside-musica">
- 
+    <h1>Albuns que Valem a Pena Ouvir Novamente</h1>
+    <h2>
+American Idiot, <br> Green Day
+</h2>
+ <img src="img/amid.png" alt="" width="350px">
+ <h2>When We All Fall Asleep, Where Do We Go?, Billie Eilish</h2>
+<img src="img/whenwe.png" alt="" width="350px">
 </aside>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

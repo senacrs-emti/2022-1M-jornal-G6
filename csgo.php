@@ -1,4 +1,3 @@
-
 <?php
 include_once './includes/_header.php';
 ?>
@@ -9,20 +8,23 @@ include_once './includes/_header.php';
     <h1>MATERIAS</h1>
 </div>
 <div class="conteudo-csgo">
-<section class="section-csgo">
+<section class="section-csgo1">
         <img class="fallen" src="https://www.pichauarena.com.br/wp-content/uploads/2022/07/Imagem-Reproducao-HLTV-Fallen-2-scaled-e1659322285392.jpg">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti nesciunt obcaecati vitae quidem mollitia odio. Nulla commodi nihil itaque, eum, molestiae soluta incidunt eaque tempora labore dolore, doloremque nobis aperiam!</p>
     </section>
-<section  class="section-csgo">
+
+<section  class="section-csgo2">
     <img class="monesy" src="https://s2.glbimg.com/EeOA17vmflgeWI6rA97d-z5Tokc=/0x0:4096x2731/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/a/e/Nt6zSxQXa5NWdYy61IiA/m0nesy-g2.jpg">
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt commodi fuga officiis quam est nostrum illum consequatur esse eum beatae. Ipsam quibusdam voluptate eaque facere, ea eos vel et atque?</p>
 </section>
-<section  class="section-csgo1">
-    <img class="majorrio2" src="https://cdn.escharts.com/uploads/public/636/229/c69/636229c6963fa687041078.jpg">
-</section>
-<section  class="section-csgo1">
+
+<section  class="section-csgo3">
     <img class="majorrio" src="https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/09/Artwork-Jeunesse-Center-Stage.jpg?auto=format%2Ccompress&w=1024&h=1024">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quo ad quia fuga, ipsum ullam sequi vero. Id aut tempore beatae repellendus numquam, repudiandae tenetur quae nulla. Saepe, harum fugiat?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos blanditiis eveniet beatae, nisi asperiores sapiente perspiciatis totam voluptatem ab? Fugit cumque dolor voluptate, eos at natus ad eveniet deleniti. Fugit!
+    </p>
 </section>
 </div>
-
 
 </main>
 
