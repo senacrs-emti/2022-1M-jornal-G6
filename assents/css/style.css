@@ -93,9 +93,7 @@ header .search-bar .lupa button{
 	display: none;
 	background-color: #f00;
     z-index: 600;
-    
 }
-
 
 .barra{
 	background-color: #333;
@@ -105,7 +103,6 @@ header .search-bar .lupa button{
 	left: -300px;
 	transition: all .2s linear;
     z-index: 500;
-   
 }
 
 .barra .link{
@@ -162,52 +159,28 @@ main {
     background-color:#E4E5FD;
 
 }
-
-
-
 .noticias section{
-
     display:inline-grid;
-
     margin-left: 50px;
-
 }
-
-
-
 .noticias section h3{
-
     font-size: 15px;
-
     color: #f00;
-
 }
-
-
-
 .noticias section p{
-
     width: 220px;
-
     font-size: 15px;
-
     text-align: justify;
-
 }
-
 .list-group{
     z-index: 499;
 }
-
 aside {
     width: 378px;
     height: 1262px;
     display: block;
     float: left;
-    background-color: #0075FF;
     background-color:#0DBAFF ;
-
-
 }
 .jogador{
     margin-top: 80px;
@@ -230,7 +203,6 @@ aside img{
         width: 100%;
     }
 }
-
 footer {
     width: 100%;
     height: 250px;
@@ -238,7 +210,6 @@ footer {
     display:flex;
     background-color: #2b4c9d;
 }
-
 
 /*CSGO*/
 .headercsgo{
@@ -330,10 +301,10 @@ footer {
 }
 
 .materias{
-    width: 95%;
+    width: 94.5%;
     height: 80px;
     background-color: #434343;
-    margin-left: 20px;
+    margin-left: 25px;
     margin-top:20px;
 }
 
@@ -346,23 +317,20 @@ footer {
 }
 
 .section-csgo1{
-    border: 2px solid black;
     display: inline-block;
-    width: 47%;
+    width: 46.8%;
     margin-top: 5px;
 }
 
 .section-csgo2{
-    border: 2px solid black;
     display: inline-block;
-    width: 47%;
+    margin-left: 6px;
+    width: 46.5%;
 }
 
 .section-csgo3{
-    border: 2px solid black;
     width: 94.4%;
 }
-
 
 .fallen{
     height: 277px;
@@ -379,8 +347,22 @@ footer {
 }
 
 p{
+    font-size: 2px;
     position: relative;
     text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-csgo3 p{
+    font-size: 21.8px;
+}
+
+.section-csgo2 p{
+    font-size: 15px;
+}
+
+.section-csgo1 p{
+    font-size: 15px;
 }
 
 .artigos {
@@ -443,10 +425,12 @@ p{
     overflow-y: hidden;
     width: 100%;
     height: 280px;
+    cursor: default;
     background-color: #0075FF;
 }
 
 .csskins{
+    cursor: pointer;
     margin-left: 1%;
     margin-top: 15px;
     width: 31%;
@@ -454,17 +438,31 @@ p{
 }
 
 .csstickers{
-    margin-left: 2%;
+    cursor: pointer;
+    margin-left: 1.7%;
     margin-top: 15px;
     width: 31%;
     height: 250px;
 }
 
 .csteams{
+    cursor: pointer;
     margin-left: 67%;
     margin-top: -280px;
     width: 31%;
     height: 250px;
+}
+
+.csteams:hover{
+    border: 2px solid white;
+}
+
+.csstickers:hover{
+    border: 2px solid white;
+}
+
+.csskins:hover{
+    border: 2px solid white;
 }
 
 /*Ao vivo*/

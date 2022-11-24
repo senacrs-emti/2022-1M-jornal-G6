@@ -10,19 +10,20 @@ include_once './includes/_header.php';
 <div class="conteudo-csgo">
 <section class="section-csgo1">
         <img class="fallen" src="https://www.pichauarena.com.br/wp-content/uploads/2022/07/Imagem-Reproducao-HLTV-Fallen-2-scaled-e1659322285392.jpg">
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti nesciunt obcaecati vitae quidem mollitia odio. Nulla commodi nihil itaque, eum, molestiae soluta incidunt eaque tempora labore dolore, doloremque nobis aperiam!</p>
+        <p>No Rio de Janeiro no Brasil, onde vai acontecer o Major, campeonato mundial de Counter-Strike: Global Offensive, o time brasileiro Imperial ganha a partida contra a Complexity no mapa Overpass e garante sua vaga no IEM Rio Major.</p>
     </section>
 
 <section  class="section-csgo2">
     <img class="monesy" src="https://s2.glbimg.com/EeOA17vmflgeWI6rA97d-z5Tokc=/0x0:4096x2731/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/a/e/Nt6zSxQXa5NWdYy61IiA/m0nesy-g2.jpg">
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt commodi fuga officiis quam est nostrum illum consequatur esse eum beatae. Ipsam quibusdam voluptate eaque facere, ea eos vel et atque?</p>
+    <p>Conhecido como o prodígio do CSGO, m0nesy, jogador profissional mais novo do cenário com 17 anos faz jogada histórica na partida da G2 Esports contra Natus Vincere no mapa Mirage em campeonato e narradores e torcedores vão a loucura.</p>
 </section>
 
 <section  class="section-csgo3">
     <img class="majorrio" src="https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/09/Artwork-Jeunesse-Center-Stage.jpg?auto=format%2Ccompress&w=1024&h=1024">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quo ad quia fuga, ipsum ullam sequi vero. Id aut tempore beatae repellendus numquam, repudiandae tenetur quae nulla. Saepe, harum fugiat?
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos blanditiis eveniet beatae, nisi asperiores sapiente perspiciatis totam voluptatem ab? Fugit cumque dolor voluptate, eos at natus ad eveniet deleniti. Fugit!
-    </p>
+    <p> Durante o campeonato mundial de CSGO que está acontecendo no Rio de Janeiro, a torcida brasileira está sendo bastante elogiada por vários jogadores, streamers e estrangeiros por ser extremamente agitada e com uma energia surpreendente. Durante os jogos 
+        era possível escutar bateria, cornetas, assovios, e frases combinadas entre os torcedores e o streamer Gaules, que era quem estava transmitindo o campeonato para os brasileiros na Twitch. Alguns jogadores profissionais como o dupreeh da Vitality disse no twitter
+        que a atmosfera do local era incrivel e outros disseram que nunca vivenciaram algo parecido antes.
+</p>
 </section>
 </div>
 
