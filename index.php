@@ -14,6 +14,7 @@ include_once './includes/_header.php';
                 <li class="list-group-item"><img src="img/icon-article-ul-libertadores-home.png" alt="">Libertadores</li>
             </ul>
             <video style="width:60% ; position:relative; left:33%; top: -400px;" controls="">
+            <h2>Momentos de Nostalgia Brasileira no Futebol</h2>
           <source src="video/Neymar (video-converter.com).mp4" type="video/mp4">
         </video>
         <div class="noticias">
@@ -52,6 +53,7 @@ include_once './includes/_header.php';
 </main>
 
 <aside>
+    <h1>Jogadores em Destaque Atualmente</h1>
             <div class="jogador">
                 <img src="img/mbappe-home.jpg" width="300px" height="168px" alt="">
                 <h1>Kylian Mbappé</h1>

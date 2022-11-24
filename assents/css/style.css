@@ -11,10 +11,15 @@ header {
     width: 100%;
     height: auto;
     float: left;
-    background-color: aquamarine;
+    background-color: blue;
     background-size: 100%;
     background-position-y: -350px;
     background-repeat: no-repeat;
+}
+
+header h1{
+    position: relative;
+    top: 100px;
 }
 
 
@@ -534,7 +539,7 @@ span{
     margin-left: 15px;
 }
 /*Música fim*/
-/*Esporte começo*/
+/*Futebol começo*/
 
 .asidefut{
     float: right;
@@ -580,24 +585,30 @@ span{
     display:inline-block;
 }
 
+.cronicafut2{
+margin-left: 100px;
+    color: white;
+}
+
 .cronicafut2 p {
-    width: 300px;
+    width: 80%;
 }
 .cronicafut2 h3{
     font-size: 20px;
     font-style: bold;
+    margin-left: 50px;
 }
 
 
 .noticia2{
-    margin-left: 1%;
-    width: 43%;
-    height: 200px;
+    margin-left: 400px;
+    width: 100%;
+    height: 100px;
     margin-bottom: 27%;
 }
 
 .noticia3{
-    margin-top: -25%;
+
     margin-left: 10%;
     width: 43%;
     height: 230px;
@@ -619,6 +630,24 @@ span{
     margin-left: 3%;
     margin-right: 3%;
     text-align: center;
+}
+
+.noticiap2{
+    width: 450px;
+    color: white;
+}  
+
+.noticiafut2 h1{
+    font-size: 40px;
+}
+.noticiafut2 h2{
+    font-size: 25px;
+    color: white;
+}
+.p1fut{
+position: relative;
+top: -210px;
+left: 400px;
 }
 
 /*fut fim */

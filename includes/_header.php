@@ -9,6 +9,7 @@
 </head>
 <body>
     <header>
+        <h1>Jornal Cultura</h1>
    <div class="linha-azul">
     
 <div class="menu-retratil">

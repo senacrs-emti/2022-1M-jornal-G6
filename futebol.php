@@ -14,23 +14,34 @@ Desde a Copa da Rússia Tite fez mais de 15 convocações para 50 jogos. Ao todo
 </p>
     <img class="noticia1" src="https://www.bemparana.com.br/wp-content/uploads/2022/11/covocacao.png" alt="" >
     </div>
+    <div class="noticiafut2">
+
+    <h1>Cristiano Ronaldo está oficialmente livre no mercado </h1>
+    <h2>Manchester United anuncia a saída do jogador;<br> Cristiano Ronaldo   </h2>
+    <p class="noticiap2">
+O craque Cristiano Ronaldo que deixara o Manchester United, marcou 145 gols de 346 partidas jogadas, se mostrando como destaque no campo. 
+Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída aconteceu no momento certo. 
+- Amo o Manchester United e os seus torcedores, isso nunca vai mudar. Porém, sinto que este é o momento certo para procurar um novo desafio.
+</p>
+<img src="" alt="">
+</div>
     <div class="cronicafut2">
-    <h3 >CRÔNICA: O FUTEBOL NA NOSSA VIDA</h1>
+    <h3> O FUTEBOL NA NOSSA VIDA</h1>
     <p>Um dia ensolarado de domingo, lá estava meu amigo se preparando e treinando para o seu jogo da segunda. Ele chutava a bola na parede, que voltava na velocidade de seus pés. Lembramos da viagem para Cachoeirinha, onde participou de um campeonato de futebol. A Copa Sortica de futsal gaúcho edição 2021, 4º fase classificatória.</p>
 
-<p>Seu time havia disputado uma partida antes e vencido: Grêmio Náutico Gaúcho 4 X 3 Grêmio, em Porto Alegre, RS. Nesse jogo estava chovendo muito e mal dava para ouvir o som dos passes na quadra. Acabaram tomando um gol no segundo tempo e viraram depois com um pouco de dificuldade.</p>
+<p >Seu time havia disputado uma partida antes e vencido: Grêmio Náutico Gaúcho 4 X 3 Grêmio, em Porto Alegre, RS. Nesse jogo estava chovendo muito e mal dava para ouvir o som dos passes na quadra. Acabaram tomando um gol no segundo tempo e viraram depois com um pouco de dificuldade.</p>
 
 <p>A adolescência é como uma final de campeonato de futebol. Há momentos cansativos e há momentos de glória. Começamos a obter uma certa admiração pelas pessoas, umas vem e outras vão, sofremos gol. Então parece estar tudo perdido, porém está somente começando essa longa jornada. Em seguida a bola aparece no meio de campo e tudo recomeça em direção à virada.</p>
 
-<p>A viagem para Cachoeirinha se tornou satisfatória, a vista bonita, a zoeira dos guris no ônibus, risadas, músicas e batidas nos bancos. Conhecida como a cidade das cachoeiras, o que lembra o nome do ginásio.</p>
+<p >A viagem para Cachoeirinha se tornou satisfatória, a vista bonita, a zoeira dos guris no ônibus, risadas, músicas e batidas nos bancos. Conhecida como a cidade das cachoeiras, o que lembra o nome do ginásio.</p>
 
 <p>Naquele fervor da quadra na partida, meu amigo levantou a taça e teve a alegria de fazer o primeiro gol de peito e o outro de falta e o último que desviou no goleiro. Mostrou ao time dele a importância de entender a vida.</p>
 
-<p>Agora o medo de perder essa sensação acontece antes da partida. O friozinho na barriga. Alguns vão te xingar, outros vão te elogiar. Enfrentaremos adversários com dribles, toques e passes correndo pela quadra e gritaremos até com o juiz se for preciso.</p>
+<p >Agora o medo de perder essa sensação acontece antes da partida. O friozinho na barriga. Alguns vão te xingar, outros vão te elogiar. Enfrentaremos adversários com dribles, toques e passes correndo pela quadra e gritaremos até com o juiz se for preciso.</p>
 
 <p>Existem situações da nossa vida que podem nos derrubar com faltas. Precisamos driblá-las e, se não conseguirmos e cairmos, precisamos nos levantar cada vez mais fortes.</p>
     </div>
-    <img class="noticia3" src="img/cr7.png" alt="">
+   
 
 </main>
 <aside class="asidefut">
