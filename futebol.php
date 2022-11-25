@@ -23,7 +23,7 @@ O craque Cristiano Ronaldo que deixara o Manchester United, marcou 145 gols de 3
 Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída aconteceu no momento certo. 
 - Amo o Manchester United e os seus torcedores, isso nunca vai mudar. Porém, sinto que este é o momento certo para procurar um novo desafio.
 </p>
-<img src="" alt="">
+<img src="https://www.lance.com.br/files/article_main/uploads/2022/08/14/62f9253ecf62c.jpeg" alt="">
 </div>
     <div class="cronicafut2">
     <h3> O FUTEBOL NA NOSSA VIDA</h1>
@@ -46,13 +46,56 @@ Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída
 </main>
 <aside class="asidefut">
     <h1 class="futh1">NOVIDADES</h1>
-    <img class="asidenoticia" src="img/copa.png" alt="">
+    <img class="asidenoticia" src="https://m.media-amazon.com/images/I/71yG3J7YOpL._AC_SY355_.jpg" alt="">
     <h2 class="h2fut">TITULO</h2>
     <p class="pfut">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci esse dicta ut quis rem quidem incidunt, 
         sequi maiores architecto ab rerum officia provident molestiae cumque iste quod a? Accusamus, 
         laboriosam.</p>
-
+        <div class="nav">
+    <div class="leiamais-fut">
+        <h1>LEIA MAIS</h1>
+    </div>
+    <div class="caixaazul-fut">
+        <ul>
+            
+            <li><a href="#">Sorteios</li>
+            <li><a href="#">Partidas</li>
+            <li><a href="#">Jogadores</li>
+            <li><a href="#">Times</li>
+            <li><a href="#">Agenda</li>
+            <li><a href="#">Valve</li>
+            <li><a href="#">Cheaters</li>
+            <li><a href="#">Mapas</li>
+            <li><a href="#">Táticas</li>
+            <li><a href="#">Adesivos</li>
+            <li><a href="#">Agentes</li>
+            <li><a href="#">Músicas</li>
+            <li><a href="#">StatTrak</li>
+            <li><a href="#">Emblemas</li>
+            <li><a href="#">Pins</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li> 
+            <li><a href="#">Trilhas Sonoras</li>
+            <li><a href="#">Trilhas Sonoras</li>
+        </ul>
+    </div>
 </aside>
+</div>
+
+
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
