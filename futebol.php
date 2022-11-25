@@ -23,7 +23,7 @@ O craque Cristiano Ronaldo que deixara o Manchester United, marcou 145 gols de 3
 Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída aconteceu no momento certo. 
 - Amo o Manchester United e os seus torcedores, isso nunca vai mudar. Porém, sinto que este é o momento certo para procurar um novo desafio.
 </p>
-<img src="" alt="">
+<img src="https://www.lance.com.br/files/article_main/uploads/2022/08/14/62f9253ecf62c.jpeg" alt="">
 </div>
     <div class="cronicafut2">
     <h3> O FUTEBOL NA NOSSA VIDA</h1>
@@ -46,13 +46,56 @@ Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída
 </main>
 <aside class="asidefut">
     <h1 class="futh1">NOVIDADES</h1>
-    <img class="asidenoticia" src="img/copa.png" alt="">
+    <img class="asidenoticia" src="https://m.media-amazon.com/images/I/71yG3J7YOpL._AC_SY355_.jpg" alt="">
     <h2 class="h2fut">TITULO</h2>
     <p class="pfut">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci esse dicta ut quis rem quidem incidunt, 
         sequi maiores architecto ab rerum officia provident molestiae cumque iste quod a? Accusamus, 
         laboriosam.</p>
-
+        <div class="nav">
+    <div class="leiamais-fut">
+        <h1>SELEÇÕES COPA DO MUNDO</h1>
+    </div>
+    <div class="caixaazul-fut">
+        <ul>
+            
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Holanda</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Equador</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Senegal</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Catar</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Inglaterra</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Irã</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>EUA</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Gales</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Arábia Saudita</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Polônia</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>México</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Argentina</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>França</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Tunisia</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Dinamarca</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Austrália</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Espanha</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Japão</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Alemanha</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Costa Rica</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Bélgica</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Croácia</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Marrocos</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Canadá</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Brasil</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Suiça</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Camarões</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Sérvia</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Portugual</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Coreia do Sul</li> 
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Uruguai</li>
+            <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Gana</li>
+        </ul>
+    </div>
 </aside>
+</div>
+
+
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
