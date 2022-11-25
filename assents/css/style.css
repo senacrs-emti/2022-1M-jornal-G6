@@ -71,14 +71,13 @@ header .search-bar{
 header .search-bar input{
     width: 92%;
     height: 35px;
- 
 }
 
 header .search-bar .lupa{
-    width: 25px;
+    width: 30px;
     background-color: white;
-    height: 30px;
-    margin-right: 6px;
+    height: 35px;
+    margin-right: 5px;
     float: right;
     border-radius: 10%;
 }
@@ -89,7 +88,7 @@ header .search-bar .lupa button{
 }
 #icone {
 	cursor: pointer;
-	padding: 15px;
+	padding: 20px;
 	position: absolute;
 	z-index: 601;
 }
@@ -101,18 +100,20 @@ header .search-bar .lupa button{
 }
 
 .barra{
-	background-color: #333;
-	height:400px;
+	background-color: rgb(191, 191, 191);
+	height: 436px;
 	width: 300px;
 	position: absolute;
 	left: -300px;
-	transition: all .2s linear;
+	transition: all .1s linear;
     z-index: 500;
 }
 
 .barra .link{
 	list-style: none;
-	background-color: #494950;
+    border: 1px solid white;
+    border-radius: 2px;
+	background-color: rgb(70, 70, 70);
 }
 
 nav{
@@ -130,12 +131,13 @@ nav a{
 	font-size: 12pt;
 	padding: 20px;
 	border-bottom: 2px solid #222;
-	transition:  all .2s linear;
+	transition:  all .1s linear;
 	opacity: 0;
-	margin-top: 200px;
+
 }
 .link:hover{
-	background-color: #0236b3;
+    transition: none;
+	background-color: #0874bc;
 }
 
 #check:checked ~ .barra nav a .link{
@@ -324,7 +326,7 @@ footer {
 .section-csgo1{
     display: inline-block;
     width: 46.8%;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .section-csgo2{
@@ -349,6 +351,7 @@ footer {
 
 .majorrio{
     width: 100%;
+    height: 330px;
 }
 
 p{
@@ -453,7 +456,7 @@ p{
 .csteams{
     cursor: pointer;
     margin-left: 67%;
-    margin-top: -280px;
+    margin-top: -278px;
     width: 31%;
     height: 250px;
 }
@@ -616,7 +619,7 @@ span{
 }
 .noticia1{
     margin-left: 55%;
-    margin-top: -65%;
+    margin-top: -75%;
     width:auto;
     height: 450px;
     display:inline-block;
@@ -703,7 +706,6 @@ left: 400px;
     background-color: rgb(192, 23, 23);  
     position: relative;
     top: 50px;
-   
 }
 
 .leiamais-fut h1{
@@ -730,4 +732,5 @@ left: 400px;
     left: 15px;
     top: 5px;
 }
+
 /*fut fim */

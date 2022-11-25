@@ -53,11 +53,14 @@ Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída
         laboriosam.</p>
         <div class="nav">
     <div class="leiamais-fut">
+
         <h1>SELEÇÕES COPA DO MUNDO</h1>
+
+        <h1>LEIA MAIS</h1>
+
     </div>
     <div class="caixaazul-fut">
         <ul>
-            
             <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Holanda</li>
             <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Equador</li>
             <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Senegal</li>
@@ -90,6 +93,7 @@ Em declarações à emissora Sky Sports, CR7 não polemizou e falou que a saída
             <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Coreia do Sul</li> 
             <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Uruguai</li>
             <li><a href="https://www.google.com/search?q=grupos+copa+do+mundo&rlz=1C1GCEB_enBR941BR941&oq=grupos+&aqs=chrome.1.69i57j0i131i433i512l3j0i131i433j0i433i512j0i512l2j0i131i433j0i433i512.2589j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;" target=_blanck>Gana</li>
+
         </ul>
     </div>
 </aside>

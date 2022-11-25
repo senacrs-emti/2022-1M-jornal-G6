@@ -10,20 +10,22 @@ include_once './includes/_header.php';
 <div class="conteudo-csgo">
 <section class="section-csgo1">
         <img class="fallen" src="https://www.pichauarena.com.br/wp-content/uploads/2022/07/Imagem-Reproducao-HLTV-Fallen-2-scaled-e1659322285392.jpg">
+        <figcaption>Direitos da HLTV</figcaption>
         <p>No Rio de Janeiro no Brasil, onde vai acontecer o Major, campeonato mundial de Counter-Strike: Global Offensive, o time brasileiro Imperial ganha a partida contra a Complexity no mapa Overpass e garante sua vaga no IEM Rio Major.</p>
     </section>
 
 <section  class="section-csgo2">
-    <img class="monesy" src="https://s2.glbimg.com/EeOA17vmflgeWI6rA97d-z5Tokc=/0x0:4096x2731/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/a/e/Nt6zSxQXa5NWdYy61IiA/m0nesy-g2.jpg">
-    <p>Conhecido como o prodígio do CSGO, m0nesy, jogador profissional mais novo do cenário com 17 anos faz jogada histórica na partida da G2 Esports contra Natus Vincere no mapa Mirage em campeonato e narradores e torcedores vão a loucura.</p>
+    <img class="monesy" src="https://fraglider.pt/wp-content/uploads/2022/05/m0nesy-pgl-antwerp.jpg">
+    <figcaption>Direitos da HLTV</figcaption>
+    <p>Conhecido como o prodígio do CSGO, m0nesy, jogador profissional mais novo do cenário com 17 anos faz jogada histórica na partida da G2 Esports contra Natus Vincere e narradores e torcedores vão a loucura.</p>
 </section>
 
 <section  class="section-csgo3">
     <img class="majorrio" src="https://eslpro.imgix.net/tour/csgo/rio/wp-content/uploads/2022/09/Artwork-Jeunesse-Center-Stage.jpg?auto=format%2Ccompress&w=1024&h=1024">
+    <figcaption>Direitos da HLTV</figcaption>
     <p> Durante o campeonato mundial de CSGO que está acontecendo no Rio de Janeiro, a torcida brasileira está sendo bastante elogiada por vários jogadores, streamers e estrangeiros por ser extremamente agitada e com uma energia surpreendente. Durante os jogos 
         era possível escutar bateria, cornetas, assovios, e frases combinadas entre os torcedores e o streamer Gaules, que era quem estava transmitindo o campeonato para os brasileiros na Twitch. Alguns jogadores profissionais como o dupreeh da Vitality disse no twitter
-        que a atmosfera do local era incrivel e outros disseram que nunca vivenciaram algo parecido antes.
-</p>
+        que a atmosfera do local era incrivel e outros disseram que nunca vivenciaram algo parecido antes.</p>
 </section>
 </div>
 
@@ -69,7 +71,7 @@ include_once './includes/_header.php';
 <div class="csfooter">
     <img src="https://www.talkesport.com/wp-content/uploads/csbet-skins-2-min.jpg" class="csskins">
     <img src="https://image.winudf.com/v2/image1/Y29tLmNzZ29zdGlja2VyYXBwX3NjcmVlbl8wXzE1NDUwMDQyMTJfMDQ5/screen-0.jpg?fakeurl=1&type=.webp" class="csstickers">
-    <img src="https://www.gamersdecide.com/sites/default/files/styles/news_images/public/mi2_1.jpg" class="csteams">
+    <img src="https://editors.dexerto.com/wp-content/uploads/2021/10/21/ESL-Pro-League-Louvre-Agreement.jpg" class="csteams">
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
