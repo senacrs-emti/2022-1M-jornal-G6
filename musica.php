@@ -81,6 +81,8 @@ American Idiot, <br> Green Day
  <img src="img/amid.png" alt="" width="350px">
  <h2>When We All Fall Asleep, Where Do We Go?, Billie Eilish</h2>
 <img src="img/whenwe.png" alt="" width="350px">
+<h2>Queen II</h2>
+<img src="img/Queen_II.jpg" alt="">
 </aside>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

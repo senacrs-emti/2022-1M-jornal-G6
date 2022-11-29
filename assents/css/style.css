@@ -225,7 +225,7 @@ footer {
 
 .csgo{
     width: 30%;
-    height: 1160px;
+    height: 1914px;
     margin-left: 0px;
     display: block;
     float: left;
@@ -490,7 +490,7 @@ p{
 
 .main-musica div{
     width: 155px;
-    height: 155px;
+    height: 150px;
     margin-left: 50px;
     
 }
@@ -506,6 +506,7 @@ span{
     width: 600px;
     float: right;
     margin-top: -200px;
+    font-size: 20px;
 }
 
 .main-musica .img-left{
@@ -519,13 +520,14 @@ span{
     float: right;
     height: 300px;
 }
+
 .main-musica .txt-left{
-    
+    font-size: 20px;
     width: 500px;
     float: left;
 }
 .aside-musica{
-    height:1145px;
+    height:1914px;
     float: right;
 }
 .aside-musica h2,h1{
@@ -536,8 +538,12 @@ span{
 
 
 
+.aside-musica h2{
+    margin-top: 100px;
+}
 .aside-musica img{
     margin-left: 15px;
+    margin-top: 
 }
 /*Música fim*/
 /*Futebol começo*/
