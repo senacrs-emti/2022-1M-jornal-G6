@@ -155,7 +155,7 @@ main {
 
     width: 70%;
 
-    height: 1914px;
+    height: auto;
 
     display: block;
 
@@ -184,7 +184,7 @@ main {
 }
 aside {
     width: 378px;
-    height: 1262px;
+    height: 1284px;
     display: block;
     float: left;
     background-color:#0DBAFF ;
@@ -543,8 +543,8 @@ span{
 }
 .aside-musica img{
     margin-left: 15px;
-    margin-top: 
 }
+
 /*Música fim*/
 /*Futebol começo*/
 
