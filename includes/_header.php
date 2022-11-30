@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Jornal Cultura</h1>
+        <img style="width:100%" src="img/MicrosoftTeams-image.png" alt="">
    <div class="linha-azul">
     
 <div class="menu-retratil">
