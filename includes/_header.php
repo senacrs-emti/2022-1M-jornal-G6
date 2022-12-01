@@ -14,7 +14,7 @@
     
 <div class="menu-retratil">
 <input type="checkbox" id="check">
-<label for="check" id="icone"><img src="https://i.imgur.com/RWHvwPE.png"/></label>
+<label for="check" id="icone"><img  src="https://i.imgur.com/RWHvwPE.png"/></label>
 <div class="barra">	
 	<nav>
 		<a href="index.php"><div class="link">Home</div></a>
