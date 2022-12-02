@@ -9,11 +9,12 @@
 
 header {
     width: 100%;
-    height:404px;
+    height: 410px;
     float: left;
     background-size: 100%;
     background-position-y: -350px;
     background-repeat: no-repeat;
+    overflow-y: hidden;
 }
 
 header h1{
@@ -25,7 +26,7 @@ header h1{
 header .linha-azul{
     width: 99.9;
     height: 60px;
-    margin-top: 5px;
+    margin-top: -4px;
     border: 1px solid black;
     background: linear-gradient(45deg, blue, cyan, rgb(0, 85, 255), blue);
     background-size: 300% 300%;
@@ -183,8 +184,8 @@ main {
     z-index: 499;
 }
 aside {
-    width: 378px;
-    height: 1284px;
+    width: 404.7px;
+    height: 1305px;
     display: block;
     float: left;
     background-color:#0DBAFF ;

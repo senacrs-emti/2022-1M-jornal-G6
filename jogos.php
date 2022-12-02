@@ -23,13 +23,13 @@ O youtuber japonês Komazawa Isolation reproduziu parte das mecânicas do jogo, 
 
 <p style="font-size:20px;">Na minha opinião Valorant é o jogo mais dinâmico e versátil do momento por todas as sas características que citei, assim se diferenciando dos demais outros jogos do seu estilo.</p>
 <span>Santana Olivaes Artur</span>
-<h1 style="color:black;  font: bold;">GTA</h1>
+<h1 style="color:black;  font: bold;">CS:GO</h1>
 <p style="font-size:20px;">Toda galera que faz parte dos jogos virtuais sabe que uma das principais coisas que torna um jogo único e interessante é a sua comunidade. Não importa o quão famoso seja, ou se não e tão conhecido como deveria, sempre vai existir um conjunto de pessoas que gostam daquela criação e é isso que os tornam uma comunidade.</p>
 <p style="font-size:20px;">Sendo assim a comunidade de um jogo pode ser formada por pessoas que gostam de se ajudar e se divertem sem confusões, mas também aquela que ninguém respeita ninguém, tornando um ambiente toxico e difícil de lidar ou se acostumar já que as pessoas agem de forma desrespeitosa um com os outros. </p>
 <p style="font-size:20px;">E chegando ao ponto principal que eu queria tratar sobre que é comunidade do CSGO. Eu jogo esse jogo dede 2017 e já vi de tudo, tanto a parte tóxica como a agradável. Nela você pode encontrar de tudo, criança, velho, jovem, e todos eles estão presentes nos dois lados de uma comunidade. Alguma hora você pode achar um cara que trata todo mundo na educação, sendo super gente boa com todos, assim como pode encontrar aquele que sai xingando todo mundo, acha que é melhor que todos e que o jogo tem que ser jogado do jeito que ele quer. E talvez os piores que são os racistas e também argentinos, que além de também serem racistas, começam a atrapalhar o jogo no momento que certas coisas começam a dar errado ou até por simplesmente quererem.</p>
 <p style="font-size:20px;">Obviamente é algo que não tem como conter e que sempre vai acontecer na maioria dos jogos, mas se fosse algo fácil de controlar acredito que as comunidades ficariam infinitamente melhor.</p>
-<span>Fonseca Salameh Yasser</span>
-<h1 style="color:black;  font: bold;">CS:GO</h1>
+<span>Haralambie Loureiro da Silva Pablo</span>
+<h1 style="color:black;  font: bold;">GTA</h1>
 <p style="font-size:20px;">O jogo GTA V foi um dos maiores sucessos da indústria de jogos, ele foi lançado em 2013, ele é um jogo em mundo aberto que conta a história de três personagens que vivem na cidade de Los Santos. A história começa quando os protagonistas se unem a uma organização e execução de diversos crimes, no qual o jogador deve ir alternando de personagem para conseguir completar as missões, que ficam localizada no mapa do jogo, dentro do jogo você pode utilizar diversos tipos de transportes. O jogo te traz vários desafios que parecem não ter nenhum sentido, mas eles seguem a trama dos personagens envolvendo chefões do crime, agentes federais, traficantes de drogas, além disso o jogo guarda espaço para vida pessoal dos personagens, mas o foco do jogo é roubar bancos, carros, lojas e isso pode parecer errado, mas é isso que dá a graça do jogo. O GTA V é facilmente o jogo mais polêmico da empresa, por causa que muitas pessoas menores de idade acabam jogando e as famílias acham errado os tiros nas pessoas, as torturas e cenas de sexo que são mais direcionadas ao público adulto.</p>
 <p style="font-size:20px;">Além disso o mapa do jogo foi totalmente recriado dentro do jogo como casas, prédios, empresas, lojas e tudo isso foi construído com o máximo de capricho possível.</p>
 <p style="font-size:20px;">Mas como o jogo precisa carregar um mapa tão grande com gráficos quase idênticos a vida real, acaba que muitas pessoas não conseguem jogar por não ter um PC bom ou um vídeo game de última geração.</p>
@@ -37,7 +37,7 @@ O youtuber japonês Komazawa Isolation reproduziu parte das mecânicas do jogo, 
 <p style="font-size:20px;">Além do mais está para lançar o GTA 6 que vai ser mil vezes melhor em questão gráfica, visual, a física do jogo vai ser completamente diferente, ele está para lançar em 2025, mas já vazaram algumas coisas e está praticamente todo mundo ansioso para o lançamento.</p>
 <p style="font-size:20px;">Mas a único coisa ruim da Rockstar é que eles demoram muito tempo para dar notícias sobre o desenvolvimento dos jogos e muita gente acaba ficando em dúvida se o jogo vai ter continuação, mas fora esses detalhes é um dos melhores jogos do mundo.</p>
 <p style="font-size:20px;">E na minha opinião o jogo é bom para passar o tempo com os amigos, mas eles poderiam adicionar algum modo para deixar o jogo mais leve para que mais pessoas consigam jogar porque como ele é um jogo muito grande e pesado ele reque um computador muito bom ou até mesmo um vídeo game de última geração. E como dentro dele existem outros modos voce não vai ficar entediado quando acabar a historia.</p>
-<span>Haralambie Loureiro da Silva Pablo</span>
+<span>Tasser Fonseca Salameh</span>
 <div class="materias">
     <h1>JOGOS FAMOSOS</h1>
 </div>
