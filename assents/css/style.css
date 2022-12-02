@@ -210,13 +210,40 @@ aside img{
         width: 100%;
     }
 }
+
 footer {
     width: 100%;
     height: 250px;
     float: left;
     display:flex;
+    position: relative;
     background-color: #2b4c9d;
+    overflow-x: hidden;
 }
+
+@media only screen and (max-width: 1196px) {
+    .ajuda{
+    position: relative;
+    top: 70px;
+    left: -80px;
+    }
+    .jn {
+        position: relative;
+        top: 130px;
+        left: -150px;
+    }
+    .contato {
+        position: relative;
+        top: 200px;
+        left: -230px;
+    }
+    .icones {
+        position: relative;
+        top: 50px;
+        left: -100px;
+    }
+}
+
 
 /*CSGO*/
 .headercsgo{
@@ -394,7 +421,7 @@ p{
 
 .ajuda {
     color: white; margin-left: 25%;
-    margin-top: -12.2%;
+    margin-top: -11.5%;
 }
 
 .ajuda h1 {
@@ -422,14 +449,15 @@ p{
 }
 
 .icones{
-    margin-top: -13%;
+    margin-top: -19%;
 }
+
 
 .icones img{
     width: 50px;
     height: 50px;
-    margin-top: 10px;
-    margin-left: 90%;
+    margin-top: 5px;
+    margin-left: 70%;
 }
 
 .conteudo-csgo{
