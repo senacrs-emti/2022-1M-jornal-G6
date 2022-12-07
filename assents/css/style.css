@@ -1,0 +1,824 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    overflow-x: hidden;
+}
+
+/*header*/
+
+header {
+    width: 100%;
+    height: 410px;
+    float: left;
+    background-size: 100%;
+    background-position-y: -350px;
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+
+header h1{
+    position: relative;
+    top: 100px;
+}
+
+
+header .linha-azul{
+    width: 99.9;
+    height: 60px;
+    margin-top: -4px;
+    border: 1px solid black;
+    background: linear-gradient(45deg, blue, cyan, rgb(0, 85, 255), blue);
+    background-size: 300% 300%;
+    animation: colors 12s ease infinite;
+
+}
+
+@keyframes colors {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100%{
+        background-position: 0% 50%;
+    }
+}
+
+header nav ul li{
+    list-style-type:none;
+    margin-top: 65px;
+margin-left: 300px;
+}
+
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+header nav ul li a:hover{
+    text-decoration: underline;
+}
+
+header .search-bar{
+    float: right;
+    width: 35%;
+    margin-top: 16px;
+    margin-right: 25px;
+}
+header .search-bar input{
+    width: 92%;
+    height: 35px;
+}
+
+header .search-bar .lupa{
+    width: 30px;
+    background-color: white;
+    height: 35px;
+    margin-right: 5px;
+    float: right;
+    border-radius: 10%;
+}
+
+header .search-bar .lupa button{
+    width: 100%;
+    height: 100%;
+}
+#icone {
+	cursor: pointer;
+	padding: 20px;
+	position: absolute;
+	z-index: 601;
+}
+
+#check{
+	display: none;
+	background-color: #f00;
+    z-index: 600;
+}
+
+.barra{
+	background-color: rgb(191, 191, 191);
+	height: 436px;
+	width: 300px;
+	position: absolute;
+	left: -300px;
+	transition: all .1s linear;
+    z-index: 500;
+}
+
+.barra .link{
+	list-style: none;
+    border: 1px solid white;
+    border-radius: 2px;
+	background-color: rgb(70, 70, 70);
+}
+
+nav{
+	width: 100%;
+	position: absolute;
+	top: 40px;
+}
+nav a{
+	text-decoration: none;
+}
+
+.link{
+	color: #f4f4f9;
+	font-family: 'Arial';
+	font-size: 12pt;
+	padding: 20px;
+	border-bottom: 2px solid #222;
+	transition:  all .1s linear;
+	opacity: 0;
+
+}
+.link:hover{
+    transition: none;
+	background-color: #0874bc;
+}
+
+#check:checked ~ .barra nav a .link{
+		opacity: 1;
+		margin-top: 0;
+		transition-delay: .2s;
+}
+#check:checked ~ .barra{
+		transform: translateX(300px);
+
+}
+/*header*/
+
+main {
+
+    width: 70%;
+
+    height: auto;
+
+    display: block;
+
+    float: left;
+
+    background-color: #C1E9FF;
+
+    background-color:#E4E5FD;
+
+}
+.noticias section{
+    display:inline-grid;
+    margin-left: 50px;
+}
+.noticias section h3{
+    font-size: 15px;
+    color: #f00;
+}
+.noticias section p{
+    width: 220px;
+    font-size: 15px;
+    text-align: justify;
+}
+.list-group{
+    z-index: 499;
+}
+aside {
+    width: 404.7px;
+    height: 1305px;
+    display: block;
+    float: left;
+    background-color:#0DBAFF ;
+}
+.jogador{
+    margin-top: 80px;
+    margin-left: 40px;
+    color: white;
+}
+aside img{
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 1196px){
+    .jogador{
+        display: inline-block;
+    }
+    main{
+        width: 100%;
+    }
+    aside{
+        width: 100%;
+    }
+}
+
+footer {
+    width: 100%;
+    height: 250px;
+    float: left;
+    display:flex;
+    position: relative;
+    background-color: #2b4c9d;
+    overflow-x: hidden;
+}
+
+@media only screen and (max-width: 1196px) {
+    .ajuda{
+    position: relative;
+    top: 70px;
+    left: -80px;
+    }
+    .jn {
+        position: relative;
+        top: 130px;
+        left: -150px;
+    }
+    .contato {
+        position: relative;
+        top: 200px;
+        left: -230px;
+    }
+    .icones {
+        position: relative;
+        top: 50px;
+        left: -100px;
+    }
+}
+
+
+/*CSGO*/
+.headercsgo{
+    background-image: url("https://i.pinimg.com/originals/4b/ee/80/4bee8020c1be299d509a75d9d96083b6.jpg");
+}
+
+.csgo{
+    width: 30%;
+    height: 1159px;
+    margin-left: 0px;
+    display: block;
+    float: left;
+  
+
+}
+.novidades{
+    width: 100%;
+    height: 80px;
+    background-color: #434343;
+}
+
+.csgologo{
+    width: 100%;
+    height: 230px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.novidades h1{
+    color: white;
+    margin-top: 16px;
+    font-size: 42px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto h2{
+    color: white;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+.texto p{
+    text-align: center;
+    color: white;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.nav{
+    margin-top: -51px;
+}
+@media only screen and (max-width:1196px) {
+    .csgo{
+        width: 100%;
+        height: 1159px;
+        margin-left: 0px;
+        display: block;
+        float: left;
+      
+    
+    }
+}
+
+.leiamais{
+    width: 100%;
+    height: 80px;
+    background-color: #434343;
+    position: relative;
+    top: 50px;
+}
+
+.leiamais h1{
+    color: white;
+    margin-top: 16px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caixaazul{
+    background-color: #0236BA;
+    width: 80%;
+    height: 580px;
+    margin-left: 35px;
+    margin-top: 70px;
+}
+
+.caixaazul ul li{
+    overflow-y: hidden;
+}
+
+.caixaazul ul li a{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+
+.materias{
+    width: 94.5%;
+    height: 80px;
+    background-color: #434343;
+    margin-left: 25px;
+    margin-top:20px;
+}
+
+.materias  h1{
+    color: white;
+    
+    margin-top: 16px;
+    font-size: 42px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section-csgo1{
+    display: inline-block;
+    width: 46.8%;
+    margin-top: 15px;
+}
+
+.section-csgo2{
+    display: inline-block;
+    margin-left: 6px;
+    width: 46.5%;
+}
+
+.section-csgo3{
+    width: 94.4%;
+}
+
+.fallen{
+    height: 277px;
+    width: 100%;
+}
+
+.monesy{
+    height: 277px;
+    width: 100%;
+}
+
+.majorrio{
+    width: 100%;
+    height: 330px;
+}
+
+p{
+    font-size: 2px;
+    position: relative;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-csgo3 p{
+    font-size: 21.8px;
+}
+
+.section-csgo2 p{
+    font-size: 15px;
+}
+
+.section-csgo1 p{
+    font-size: 15px;
+}
+
+.artigos {
+    color: white;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.artigos h1 {
+    font-size: 30px;
+}
+
+.ajuda {
+    color: white; margin-left: 25%;
+    margin-top: -11.5%;
+}
+
+.ajuda h1 {
+    font-size: 30px;
+}
+
+.jn {
+    color: white;
+    margin-left: 40%;
+    margin-top: -6.5%;
+}
+
+.jn h1 {
+    font-size: 30px;
+}
+
+.contato {
+    color: white;
+    margin-left: 58%;
+    margin-top: -12%;
+}
+
+.contato h1 {
+    font-size: 30px;
+}
+
+.icones{
+    margin-top: -19%;
+}
+
+
+.icones img{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 70%;
+}
+
+.conteudo-csgo{
+    position: relative;
+    left: 25px;
+}
+
+.csfooter{
+    overflow-y: hidden;
+    width: 100%;
+    height: 280px;
+    cursor: default;
+    background-color: #0075FF;
+}
+
+.csskins{
+    cursor: pointer;
+    margin-left: 1%;
+    margin-top: 15px;
+    width: 31%;
+    height: 250px;
+}
+
+.csstickers{
+    cursor: pointer;
+    margin-left: 1.7%;
+    margin-top: 15px;
+    width: 31%;
+    height: 250px;
+}
+
+.csteams{
+    cursor: pointer;
+    margin-left: 67%;
+    margin-top: -278px;
+    width: 31%;
+    height: 250px;
+}
+
+.csteams:hover{
+    border: 2px solid white;
+}
+
+.csstickers:hover{
+    border: 2px solid white;
+}
+
+.csskins:hover{
+    border: 2px solid white;
+}
+
+/*Ao vivo*/
+
+.ao-vivo{
+    width: 100%;
+}
+
+.ao-vivo iframe{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 4%;
+}
+/*Ao vivo fim*/
+
+/*Musica*/
+
+.main-musica {
+    padding-bottom: 223px;
+}
+.main-musica div{
+    width: 155px;
+    height: 150px;
+    margin-left: 50px;
+}
+
+
+
+span{
+    font-size: 20px;
+    color: darkblue;
+}
+
+.main-musica .txt-right{
+    width: 600px;
+    float: right;
+    margin-top: -200px;
+    font-size: 20px;
+}
+
+.main-musica .img-left{
+    margin-left: -10px;
+  width: 250px;
+  height: 202px;
+}
+
+.main-musica .img-right{
+    width: auto;
+    float: right;
+    height: 300px;
+}
+
+.main-musica .txt-left{
+    font-size: 20px;
+    width: 500px;
+    float: left;
+}
+.aside-musica{
+    height:1914px;
+    float: right;
+}
+.aside-musica h2,h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+.aside-musica h2{
+    margin-top: 100px;
+}
+.aside-musica img{
+    margin-left: 15px;
+}
+
+/*Música fim*/
+/*Futebol começo*/
+
+.asidefut{
+    float: right;
+    height: auto;
+    width: 27%;
+}
+
+@media only screen and (max-width: 1196px){
+    .mainfut{
+        background-color: #96B4FF;
+        width: 100%!important;
+        } 
+    .asidefut{
+        float: right;
+        height: auto;
+        width: 100%;
+    }
+    .noticiafut1{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:842px) {
+    .noticia1{
+        margin-top: 0px !important;
+        margin-left: -14px !important;
+        width:auto !important;
+        height:450px !important; 
+        display:inline-block !important;
+    }
+
+    .noticiafut2 img{
+        width: 350px;
+        margin-top: 300px;
+        margin-left: -400px;
+    }
+    
+}
+.mainfut{
+    background-color: #96B4FF;
+    width: 73%;
+    height: auto;
+    padding-bottom: 111px;
+}
+
+
+.futh1{
+    background-color: rgb(192, 23, 23);
+    color: whitesmoke;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+}
+
+.futh2{
+    color: white;
+    width: 300px;
+    margin-left:90px;
+    text-align: center;
+}
+
+.futh3{
+    color: white;
+    font-size: 25px;
+}
+.futp{
+    width: 450px;
+    color: white;
+    text-align: justify;
+    font-size: 17px;
+}
+.noticia1{
+    margin-left: 55%;
+    margin-top: -75%;
+    width:auto;
+    height: 450px;
+    display:inline-block;
+}
+
+.cronicafut2{
+margin-left: 100px;
+    color: white;
+    margin-top: -150px;
+}
+
+.cronicafut2 p {
+    width: 80%;
+    font-size: 17.01px;
+}
+.cronicafut2 h3{
+    font-size: 30px;
+    font-style: bold;
+    margin-left: 50px;
+}
+
+.noticiafut2 img{
+    width: 350px;
+    position: relative;
+    top: -250px;
+    left: 500px;
+}
+
+.noticia2{
+    margin-left: 400px;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 27%;
+}
+
+.noticia3{
+
+    margin-left: 10%;
+    width: 43%;
+    height: 230px;
+
+}
+.asidenoticia{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 300px;
+}
+.h2fut{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pfut{
+    color: whitesmoke;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.noticiap2{
+    width: 450px;
+    color: white;
+    font-size: 15px;
+}  
+
+.noticiafut2 h1{
+    font-size: 40px;
+}
+.noticiafut2 h2{
+    font-size: 25px;
+    color: white;
+}
+.p1fut{
+position: relative;
+top: -210px;
+left: 400px;
+}
+
+.leiamais-fut{
+    width: 100%;
+    height: auto;
+    background-color: rgb(192, 23, 23);  
+    position: relative;
+    top: 50px;
+}
+
+.leiamais-fut h1{
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caixaazul-fut{
+    background-color: #0236BA;
+    width: 80%;
+    height: auto;
+    margin-left: 35px;
+    margin-top: 70px;
+}
+
+.caixaazul-fut ul li{
+    overflow-y: hidden;
+}
+
+.caixaazul-fut ul li a{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+
+/*fut fim */
+/*Jogos*/
+
+.parte1{
+    display: inline-block;
+margin-left: 55px;
+}
+.parte2{
+    display: inline-block;
+    margin-left: 55px;
+}
+
+
+
+
+.parte3{
+    display: inline-block;
+    margin-left: 55px;
+}
+
+.parte4{
+    display: inline-block;
+    margin-left: 55px;
+}
+
+.parte1 p{
+    font-size: 20px;
+}
+
+.parte2 p {
+    font-size: 20px;
+    ;
+    font: bold;
+}
+
+    .parte3 p {
+        font-size: 20px;
+    }
+
+    .parte4 p {
+        font-size: 20px ;
+    }
+
+    /*fim jogos*/
+    
+
